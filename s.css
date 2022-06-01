@@ -1,0 +1,17 @@
+body img{
+    border-image-width: 5px;
+    border-radius: 52px;
+    width: 10%;
+}
+.body{
+    background-image: linear-gradient(rgb(155, 148, 236),rgb(59, 182, 176),rgb(218, 204, 60));
+}
+.name{
+    text-transform: uppercase;
+}
+.skills{
+    text-transform: uppercase;
+}
+.project{
+    text-transform: uppercase;
+}
